@@ -1,8 +1,6 @@
 <?php
 /**
  * php file part for contact form validate
- *
- * @package Brome - Responsive Portfolio Creative Template
  */
 
 // Capture the form data
